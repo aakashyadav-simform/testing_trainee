@@ -1,4 +1,4 @@
 def add_function(a, b):
     return a + b
 
-print(add_function(2, 3))  # Example usage
+print(f"New changes {add_function(3, 5)}")  # Example usage
